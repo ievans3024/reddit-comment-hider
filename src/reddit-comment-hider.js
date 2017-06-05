@@ -5,7 +5,7 @@
 // @version      0.1
 // @description  Hides comments under desired URLs
 // @author       ievans3024
-// @match        http*://*.reddit.com/r/Terraria/*/*/
+// @match        http*://*.reddit.com/r/Terraria/comments/*/*/
 // ==/UserScript==
 ;(
   function () {
